@@ -4,13 +4,7 @@ A terminal-based alarm clock in Java that plays a `.wav` audio file when your al
 
 ---
 
-### 📽️ Demo
 
-> Add your GIF or terminal recording in the `demo/` folder, name it `alarm-demo.gif`.
-
-![Java Alarm Clock Demo](demo/alarm-demo.gif)
-
----
 
 ### ✨ Features
 
