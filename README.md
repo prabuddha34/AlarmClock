@@ -16,3 +16,17 @@ A terminal-based alarm clock in Java that plays a `.wav` audio file when your al
 ---
 
 ### 📁 Project Structure
+java-alarm-clock/
+├── src/
+│   └── main/
+│       └── java/
+│           └── alarm/
+│               └── Main.java
+├── audio/
+│   └── alarm.wav
+├── demo/
+│   └── alarm-demo.gif
+├── README.md
+├── .gitignore
+└── build/
+    └── (optional output for compiled .class files)
